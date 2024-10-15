@@ -2,6 +2,7 @@
 import './Footer.css'
 import footer_logo from '../../assets/logo.png'
 import user_icon from '../../assets/user_icon.svg'
+import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 const Footer = () => {
   return (
@@ -23,9 +24,9 @@ const Footer = () => {
         <div className="footer-bottom">
             <p className="footer-bottom-left">© 2024 Prajwal Korade. All rights reserved.</p>
             <div className="footer-bottom-right">
-                <p>Term of Services</p>
-                <p>Privacy Policy</p>
-                <p>Connect with me</p>
+                <div className='footer-termservices'><AnchorLink className='anchor-link' offset={50} href='#termservices'></AnchorLink><p>Term of Services</p></div>
+                <div className='footer-privacypolicy'><AnchorLink className='anchor-link' offset={50} href='#privacypolicy'></AnchorLink><p>Privacy Policy</p></div>
+                <div className='footer-connect'><AnchorLink className='anchor-link' offset={50} href='#contact'></AnchorLink><p>Connect with me</p></div>
             </div>
         </div>
     </div>

@@ -57,6 +57,8 @@
     padding: 0px 20px;
 }
 .footer-bottom-right{
+    margin-top: 15px;
+    margin-right: 20px;
     display: flex;
     gap: 50px;
     margin-bottom: 50px;
@@ -68,6 +70,34 @@
     transform: scale(1.1);
     transition: 0.3s;
 }
+.footer-termservices{
+    display: flex;
+    align-items: center;
+    gap: 55px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 90px;
+    cursor: pointer;
+}
+.footer-privacypolicy{
+    display: flex;
+    align-items: center;
+    gap: 55px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 90px;
+    cursor: pointer;
+}
+.footer-connect{
+    display: flex;
+    align-items: center;
+    gap: 55px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 90px;
+    cursor: pointer;
+}
+
 @media(max-width:768px){
     .footer{
         margin: 50px 70px;
