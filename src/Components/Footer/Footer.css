@@ -72,31 +72,34 @@
 }
 .footer-termservices{
     display: flex;
+    margin-right: 60px;
     align-items: center;
-    gap: 55px;
+    gap: 25px;
     font-size: 18px;
     font-weight: 500;
-    margin-bottom: 90px;
+    margin-bottom: 80px;
     cursor: pointer;
 }
 .footer-privacypolicy{
     display: flex;
+    margin-right: 60px;
     align-items: center;
-    gap: 55px;
+    gap: 25px;
     font-size: 18px;
     font-weight: 500;
-    margin-bottom: 90px;
+    margin-bottom: 80px;
     cursor: pointer;
 }
 .footer-connect{
     display: flex;
     align-items: center;
-    gap: 55px;
+    gap: 25px;
     font-size: 18px;
     font-weight: 500;
-    margin-bottom: 90px;
+    margin-bottom: 80px;
     cursor: pointer;
 }
+
 
 @media(max-width:768px){
     .footer{

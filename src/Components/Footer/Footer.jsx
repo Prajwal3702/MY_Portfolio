@@ -24,9 +24,9 @@ const Footer = () => {
         <div className="footer-bottom">
             <p className="footer-bottom-left">© 2024 Prajwal Korade. All rights reserved.</p>
             <div className="footer-bottom-right">
-                <div className='footer-termservices'><AnchorLink className='anchor-link' offset={50} href='#termservices'></AnchorLink><p>Term of Services</p></div>
-                <div className='footer-privacypolicy'><AnchorLink className='anchor-link' offset={50} href='#privacypolicy'></AnchorLink><p>Privacy Policy</p></div>
-                <div className='footer-connect'><AnchorLink className='anchor-link' offset={50} href='#contact'></AnchorLink><p>Connect with me</p></div>
+                <div className='footer-termservices'><AnchorLink className='anchor-link' offset={50} href='#termservices'><p>Term of Services</p></AnchorLink></div>
+                <div className='footer-privacypolicy'><AnchorLink className='anchor-link' offset={50} href='#privacypolicy'><p>Privacy Policy</p></AnchorLink></div>
+                <div className='footer-connect'><AnchorLink className='anchor-link' offset={50} href='#contact'><p>Connect with me</p></AnchorLink></div>
             </div>
         </div>
     </div>
