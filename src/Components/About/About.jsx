@@ -10,12 +10,10 @@ const About = () => {
         <div className="about-title">
             <h1>About me</h1>
             <img src= {theme_pattern} alt="" />
-            
         </div>
         <div className="about-sections">
             <div className="about-left">
                 <img src= {profile_img} alt="" />
-                
             </div>
             <div className="about-right">
                 <div className="about-para">
@@ -30,26 +28,29 @@ const About = () => {
             </div>
         </div><br/>
         <div className="about-achievements">
-            <div className="about-achievement">
-                <h1>10+</h1>
-                <br/>
-                <p>Years Of Experience</p>
-            </div>
             <hr />
             <div className="about-achievement">
                 <h1>4+</h1>
                 <br/>
-                <p>PROJECT COMPLETED</p>
+                <p>PROJECTS COMPLETED</p>
             </div>
             <hr />
-            <div className="about-achievement">
-                <h1>10+</h1>
-                <br/>
-                <p>Years Of Experience</p>
-            </div>
+           
         </div>
     </div>
   )
 }
 
 export default About
+
+/*<div className="about-achievement">
+<h1>4+</h1>
+<br/>
+<p>PROJECT COMPLETED</p>
+</div>
+<hr />
+<div className="about-achievement">
+<h1>5+</h1>
+<br/>
+<p>Years Of Experience</p>
+</div>*/
