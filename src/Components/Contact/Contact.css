@@ -143,6 +143,7 @@
     .contact-section{
         flex-direction: column;
     }
+
     .contact-left h1{
         padding: 0px 90px;
         font-size: 54px;
@@ -157,6 +158,9 @@
     }
     .contact-detail img{
         width: 25px;
+    }
+    .contact-right{
+       padding-left: 20px;
     }
     .contact-right label{
         padding: 0px 90px;
@@ -179,4 +183,8 @@
         font-size: 20px;
         padding: 15px 40px;
     }
+    .contact-detail-socialmedia{
+        padding-left: 90px;
+    }
+   
 }
