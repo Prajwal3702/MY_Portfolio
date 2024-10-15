@@ -34,17 +34,16 @@
 .services-container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 80px;
+    gap: 90px;
     margin-bottom: 40px;
 }
 .services-format h3{
-    font-size: 28px;
+    font-size: 38px;
     font-weight: 600;
-
 }
 .services-format h2{
     font-size: 38px;
-    margin-top: 20px;
+    margin-top: 30px;
     font-weight: 800;
     background: linear-gradient(270deg, #DF8908 50%, #B415FF 100%);
     background-clip: text;

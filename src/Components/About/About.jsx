@@ -35,7 +35,7 @@ const About = () => {
                 <p>PROJECTS COMPLETED</p>
             </div>
             <hr />
-           
+            
         </div>
     </div>
   )
