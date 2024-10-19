@@ -74,7 +74,7 @@
     display: none;
 }
 
-@media(width:360px){
+@media(max-width:400px){
     .navbar{
         padding-left: 30px;
         margin: 20px 50px;

@@ -101,7 +101,7 @@
 }
 
 
-@media(width:360px){
+@media(max-width:400px){
     .footer{
         margin: 50px 70px;
     }
