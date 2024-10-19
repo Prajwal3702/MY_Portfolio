@@ -112,6 +112,14 @@
     .footer-top-left{
         padding-left: 50px;
     }
+    .footer-top-left img{
+        height: 60px;
+        width: 180px;
+    }
+    .footer-top-left p{
+        font-size: 15px;
+        padding: 30px 65px;
+    }
     .footer-top-right{
         padding-left: 90px;
     }

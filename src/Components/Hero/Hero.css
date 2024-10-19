@@ -77,7 +77,8 @@
         margin: 10px 0px;
     }
     .hero-action{
-        gap: 31px;
+       margin-right: 5px;
+        gap: 30px;
         font-size: 18px;
         font-weight: 500;
         margin-bottom: 50px;

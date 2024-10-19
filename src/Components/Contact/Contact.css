@@ -150,11 +150,11 @@
     }
     .contact-left p{
         padding: 0px 90px;
-        font-size: 18px;
+        font-size: 13px;
     }
     .contact-detail{
         padding: 0px 130px;
-        gap: 20px;
+        gap: 15px;
     }
     .contact-detail img{
         width: 25px;
@@ -164,17 +164,17 @@
     }
     .contact-right label{
         padding: 0px 90px;
-        font-size: 20px;
+        font-size: 15px;
     }
     .contact-right input{
-        margin-left: 65px;
-        padding: 0px 60px;
-        width: 80%;
+        margin-left: 55px;
+        padding: 0px 20px;
+        width: 65%;
         font-size: 20px;
     }
     .contact-right textarea{
-        margin-left: 65px;
-        padding: 0px 60px;
+        margin-left: 55px;
+        padding: 0px 20px;
         width: 58%;
         font-size: 20px;
     }
@@ -184,6 +184,7 @@
         padding: 15px 40px;
     }
     .contact-detail-socialmedia{
+        width: 400px;
         padding-left: 90px;
     }
    
