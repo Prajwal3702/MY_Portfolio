@@ -85,7 +85,7 @@
     .nav-mob-open{
         display: block;
         position: fixed;
-        /*right: 30px;*/
+        right: 30px;
     }
     .nav-mob-open img{
         margin-right: 20px;
