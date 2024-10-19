@@ -60,7 +60,7 @@
 .hero-resume:hover{
     border-color: violet;
 }
-@media(max-width:400px){
+@media(max-width:480px){
     .hero img{
         margin-top: 20px;
         width: 260px;
