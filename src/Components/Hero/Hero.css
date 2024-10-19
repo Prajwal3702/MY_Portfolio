@@ -60,7 +60,7 @@
 .hero-resume:hover{
     border-color: violet;
 }
-@media(max-width:480px){
+@media(max-width:768px){
     .hero img{
         margin-top: 20px;
         width: 260px;
@@ -77,16 +77,17 @@
         margin: 10px 0px;
     }
     .hero-action{
-        gap: 40px;
+        gap: 31px;
         font-size: 18px;
         font-weight: 500;
         margin-bottom: 50px;
     }
     .hero-connect{
-        padding: 15px 30px;
-        border-radius: 50px;
+        padding: 15px 1px;
+        border-radius: 40px;
     }
     .hero-connect h5{
+        margin-right: 20px;
         margin-top: -15px;
         font-size: 18px;
     }
