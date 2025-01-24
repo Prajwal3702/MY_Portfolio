@@ -25,7 +25,7 @@ const mywork_data = [
         w_img:project4_img
     },
 
-    {
+    /*{
         w_no:4,
         w_name:"Web design",
         w_img:project2_img
