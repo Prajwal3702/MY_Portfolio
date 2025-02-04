@@ -46,6 +46,9 @@
     cursor: pointer;
     transition: 0.3s;
 }
+.footer-subscribe p{
+    margin-top: -14px;
+}
 .footer-bottom{
     display: flex;
     justify-content: space-between;
